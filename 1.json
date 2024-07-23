@@ -2,29 +2,14 @@
   "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720512054891/fan.txt;md5;fc1b4f17aa8de6068500090f33de88b9",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
-    {
+   {
       "key": "豆豆",
-      "name": "玩偶新添加优汐线路",
+      "name": "豆dou",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
-    },
-    {
-      "key": "玩偶",
-      "name": "玩偶",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto",
-        "siteUrl": "https://www.wogg.link/",
-        "danMu": "弹"
-      }
     },
     {
       "key": "YGP",
@@ -35,33 +20,9 @@
       "quickSearch": 0,
       "changeable": 0
     },
-
-    {
-      "key": "酷看",
-      "name": "酷看┃秒播",
-      "type": 3,
-      "api": "csp_Kkys",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "Lib",
-      "name": "立播┃秒播",
-      "type": 3,
-      "api": "csp_Libvio",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
-      }
-    },
     {
       "key": "Zx4k",
-      "name": "厂长专线┃秒播",
+      "name": "厂长专线",
       "type": 3,
       "api": "csp_Zx4k",
       "timeout": 15,
@@ -83,7 +44,7 @@
     },
     {
       "key": "苹果",
-      "name": "苹果┃不卡",
+      "name": "🍎苹果",
       "type": 3,
       "api": "csp_LiteApple",
       "searchable": 1,
@@ -157,7 +118,7 @@
     },
     {
       "key": "Auete",
-      "name": "奥特┃无广",
+      "name": "奥特",
       "type": 3,
       "api": "csp_Auete",
       "timeout": 15,
@@ -168,7 +129,7 @@
     },
     {
       "key": "Dm84",
-      "name": "巴士┃动漫",
+      "name": "巴士动漫",
       "type": 3,
       "api": "csp_Dm84",
       "searchable": 1,
@@ -177,7 +138,7 @@
     },
     {
       "key": "Ysj",
-      "name": "异界┃动漫",
+      "name": "异界动漫",
       "type": 3,
       "api": "csp_Ysj",
       "searchable": 1,
@@ -186,7 +147,7 @@
     },
     {
       "key": "Anime1",
-      "name": "日本┃动漫",
+      "name": "日本动漫",
       "type": 3,
       "api": "csp_Anime1",
       "searchable": 1,
@@ -222,54 +183,6 @@
       "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/MTV.json"
     }, 
     {
-      "key": "米搜",
-      "name": "米搜┃搜索",
-      "type": 3,
-      "api": "csp_MIPanSo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
-      }
-    },
-    {
-      "key": "YiSo",
-      "name": "易搜┃搜索",
-      "type": 3,
-      "api": "csp_YiSo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
-      }
-    },
-    {
-      "key": "PanSearch",
-      "name": "盘See┃搜索",
-      "type": 3,
-      "api": "csp_PanSearch",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
-      }
-    },
-    {
-      "key": "fan",
-      "name": "导航 www.饭太硬.com",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
       "key": "cc",
       "name": "请勿相信视频中广告",
       "type": 3,
@@ -282,24 +195,16 @@
   "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545739254/fc1b89e152cd4aa28d295107cb6c56c9.gif",
   "lives": [
     {
-      "name": "live",
-      "type": 0,
-      "url": "https://www.huichunniao.cn/xh/lib/live.txt",
-      "playerType": 1,
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-      "logo": "https://live.fanmingming.com/tv/{name}.png"
-    },
-    {
-      "name": "XIUTAN",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",
-      "type": 0,
-      "url": "https://xhdwc.tk/xiutan.m3u"
-    },
-    {
       "name": "IPV6",
       "type": 0,
       "url": "https://gitee.com/gongshangs/tv/raw/master/iptv.txt",
       "playerType": 1
+    },
+    {
+     "name": "IPV6",
+      "type": 0,
+       "url": "https://raw.githubusercontent.com/wwb521/live/main/tv.m3u",
+       "playerType": 1
     }
   ]
 }
