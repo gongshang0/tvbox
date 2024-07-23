@@ -197,14 +197,8 @@
     {
       "name": "IPV6",
       "type": 0,
-      "url": "https://gitee.com/gongshangs/tv/raw/master/iptv.txt",
+      "url": "https://raw.githubusercontent.com/gongshang0/tvbox/master/cq.txt",
       "playerType": 1
-    },
-    {
-     "name": "IPV6",
-      "type": 0,
-       "url": "https://raw.githubusercontent.com/wwb521/live/main/tv.m3u",
-       "playerType": 1
     }
   ]
 }
