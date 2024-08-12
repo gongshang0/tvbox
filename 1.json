@@ -197,7 +197,7 @@
    {
       "name": "IPV6",
       "type": 0,
-      "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+      "url": "https://raw.githubusercontent.com/gongshang0/IPTV/master/result.txt",
       "playerType": 1
     }
   ]
