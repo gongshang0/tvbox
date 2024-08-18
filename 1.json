@@ -2,6 +2,15 @@
   "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720512054891/fan.txt;md5;fc1b4f17aa8de6068500090f33de88b9",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
+    {
+      "key": "苹果",
+      "name": "🍎苹果",
+      "type": 3,
+      "api": "csp_LiteApple",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
    {
       "key": "豆豆",
       "name": "豆dou",
@@ -38,15 +47,6 @@
       "api": "csp_YCyz",
       "timeout": 15,
       "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "苹果",
-      "name": "🍎苹果",
-      "type": 3,
-      "api": "csp_LiteApple",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
