@@ -197,7 +197,7 @@
    {
       "name": "IPV6",
       "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/busyrock/IPTV/main/IPTV.m3u",
+      "url": "https://raw.githubusercontent.com/gongshang0/tvbox/refs/heads/master/3.txt",
       "playerType": 1
     }
   ]
